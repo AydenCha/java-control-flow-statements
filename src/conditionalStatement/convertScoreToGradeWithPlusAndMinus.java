@@ -13,5 +13,7 @@ public class convertScoreToGradeWithPlusAndMinus {
     }
 
     public static String convertScoreToGradeWithPlusAndMinus(int score) {
+        // TODO: [조건문] 연습문제 13번(convertScoreToGradeWithPlusAndMinus)에서 직접 작성해 봅니다.
+        return ""; // 임시 값입니다. 이 줄을 지우고 직접 작성하세요.
     }
 }
